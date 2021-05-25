@@ -1,5 +1,6 @@
 # EC2 - Linux Machine
 ## Architecture
+![Image of Yaktocat](https://github.com/yourfriend-gaurav-gurjar/musical-broccoli/blob/main/EC2%20-%20Linux%20Machine.png)
 <img src="[drawing.jpg](https://github.com/yourfriend-gaurav-gurjar/musical-broccoli/blob/main/EC2%20-%20Linux%20Machine.png)" alt="EC2 Archicture Setup" width="200"/>
 
 ## Python Script
