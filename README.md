@@ -42,4 +42,4 @@
 
 ## S3 Buckets
 
-*XMind - Trial Version*
+
