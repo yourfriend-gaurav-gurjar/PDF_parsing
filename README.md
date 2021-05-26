@@ -8,7 +8,7 @@
 
 ### Data Reading and Wrangling
 
-- camelot library usage - [conda/pip]() env
+- camelot library usage - [conda/pip](/env.md) env
 
 	- [PDF - Table Parsing](https://camelot-py.readthedocs.io/en/master/user/quickstart.html#read-the-pdf)
 
