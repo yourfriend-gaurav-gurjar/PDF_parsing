@@ -8,9 +8,9 @@
 
 ### Data Reading and Wrangling
 
-- camelot library usage - conda/pip env
+- camelot library usage - [conda/pip]() env
 
-	- PDF - Table Parsing
+	- [PDF - Table Parsing](https://camelot-py.readthedocs.io/en/master/user/quickstart.html#read-the-pdf)
 
 - Merging dataframes
 - trimming and creating required cols
@@ -25,18 +25,18 @@
 
 - camelot's parents
 
-	- Ghostscript
-	- Tkinter
+	- [Ghostscript](https://www.ghostscript.com/)
+	- [Tkinter](https://docs.python.org/3/library/tkinter.html)
 
 ### pip/conda environment
 
-- camelot
-- awscli
-- pandas
+- [camelot-py[all]](https://camelot-py.readthedocs.io/en/master/)
+- [awscli](https://pypi.org/project/awscli/)
+- [pandas](https://pandas.pydata.org/)
 
 ### Python Script - Table Parsing Dependencies
 
-- camelot
+- [camelot-py[all]](https://camelot-py.readthedocs.io/en/master/)
 
 ### AWS credentials - config file
 
